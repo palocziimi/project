@@ -1,5 +1,5 @@
 function getFirstElement (arr){
-    return arr[0];
+    return arr;
 }
 const numbers = [1, 2, 3];
 const words = ["apple", "banana", "cherry"];
